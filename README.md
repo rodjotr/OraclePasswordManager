@@ -3,7 +3,7 @@
 Oracle Password Manager je jednostavna desktop aplikacija napravljena u C# WinForms-u koja ti pomaže da upravljaš korisničkim nalozima u Oracle bazi podataka.
 
 ---
-![Image Alt]([image_url](https://github.com/rodjotr/OraclePasswordManager/blob/master/Screenshot.png))
+![Oracle Password Manager Screenshot](https://raw.githubusercontent.com/rodjotr/OraclePasswordManager/master/Screenshot.png)
 
 
 
